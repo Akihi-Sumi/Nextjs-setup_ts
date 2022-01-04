@@ -1,5 +1,5 @@
 # nextjs-setup
-# STEP
+STEP
 
 1, Create a working directory
 
